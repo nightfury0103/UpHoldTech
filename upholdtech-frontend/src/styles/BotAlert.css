@@ -1,0 +1,25 @@
+.c-botalert-form {
+    height: 70%;
+}
+
+.container {
+    max-width: 800px !important;
+}
+
+.container form div {
+    margin: 40px 0;
+}
+
+label {
+    margin-bottom: 1rem !important;
+}
+
+.pairSelect {
+    display: flex;
+    margin: 0 !important;
+}
+
+.list-group span {
+    color: red;
+    font-size: 20px;
+}
